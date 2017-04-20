@@ -20,4 +20,4 @@
 .byebug_history
 
 # Ignore the database.yml
-config/database.yml
+/config/*.yml
